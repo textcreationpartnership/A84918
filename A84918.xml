@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fresh intelligence of another nevv and great victory obtained by the Lord Fairfax his forces against the popish army in Yorkshire neere Hvll. Wherein 80 of that popish army were slaine, 100 taken prisoners, and 9 peeces of ordnance recovered, the one of them being called her Majesties Gog and Magog.</title>
+            <title>Fresh intelligence of another new and great victory obtained by the Lord Fairfax his forces against the popish army in Yorkshire neere Hull.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84918</idno>
+            <idno type="STC">Wing F2198</idno>
+            <idno type="STC">Thomason E71_12</idno>
+            <idno type="STC">ESTC R13972</idno>
+            <idno type="EEBO-CITATION">99859587</idno>
+            <idno type="PROQUEST">99859587</idno>
+            <idno type="VID">111679</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111679)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E71[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fresh intelligence of another nevv and great victory obtained by the Lord Fairfax his forces against the popish army in Yorkshire neere Hvll. Wherein 80 of that popish army were slaine, 100 taken prisoners, and 9 peeces of ordnance recovered, the one of them being called her Majesties Gog and Magog.</title>
+                  <title>Fresh intelligence of another new and great victory obtained by the Lord Fairfax his forces against the popish army in Yorkshire neere Hull.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.N.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Oct: 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Ferdinando Fairfax, --  Baron, 1584-1648.</term>
+               <term>Yorkshire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111679:1" rendition="simple:additions"/>
+            <p> Freſh Intelligence OF ANOTHER NEVV AND GREAT VICTORY Obtained by the Lord <hi>Fairfax</hi> his Forces againſt the po<g ref="char:EOLhyphen"/>piſh Army in <hi>Yorkſhire</hi> neere <hi>HVLL.</hi>
+            </p>
+            <p>Wherein 80 of that Popiſh Army were ſlaine, 100 taken Priſo<g ref="char:EOLhyphen"/>ners, and 9 Peeces of Ordnance recovered, the one of them being called her Majeſties <hi>Gog</hi> and <hi>Magog.</hi>
+            </p>
+            <p>
+               <add>Oct: 17</add> LONDON, Printed for <hi>A. N.</hi> 1643.</p>
+            <pb facs="tcp:111679:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111679:2"/>
+            <head>Another great Victory obtained by the Lord <hi>Fairfax</hi> his Forces againſt the Popiſh Army neere <hi>Hull.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">N</seg>Ow all men may ſee the grand effect and operation of the Co<g ref="char:EOLhyphen"/>venant, thus it was with <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> God carryed on their De<g ref="char:EOLhyphen"/>ſigne without impediment, it was the meere force of their Covenant which wrought it, and brought them on ſo ſucceſſefully, and ever ſince the firſt day of ſtriking in and Confedera<g ref="char:EOLhyphen"/>ting in ſuch a wonderfull manenr, God hath gi<g ref="char:EOLhyphen"/>uen us ſucceſſe; the victory at <hi>Newberry,</hi> the re<g ref="char:EOLhyphen"/>liefe of <hi>Gloceſter,</hi> were even when we were con<g ref="char:EOLhyphen"/>ſidering and conſulting, and taking our Cove<g ref="char:EOLhyphen"/>nant, and now very lately upon the ſecond ſo<g ref="char:EOLhyphen"/>lemnity of it by the houſe of Lords, a Meſſenger came with the joyfull tydings of the Earle of <hi>Mancheſters</hi> victory neere <hi>Bullingbrooke.</hi>
+            </p>
+            <pb n="2" facs="tcp:111679:3"/>
+            <p> And now one Captaine <hi>Clayton,</hi> an Officer in the Lord <hi>Fairfax</hi> Army came hither the 17 of <hi>October</hi> from <hi>Hull</hi> in <hi>Yorkſhire</hi> at 3. of the clocke, that place which was formerly b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſieged with the Earle of <hi>Newcaſtle</hi>'s Army, hee having divers times ſhot into the Towne hot flaming bullets which to the wonder and aſtoniſhment of all never fell but on ſome Malignant houſe in the town, but now the Newcaſtelian Forces lying ſtil in their ſiege, and fancying to themſelves ſome unexpected ſucceſſe either by treachery within, or by their conſtant lying before it, hoping at length to worke ſome terrour in the Inhabitants, and to bring them into ſtraits, it pleaſed God to put into the hearts of the noble Lord <hi>Fairfax,</hi> Sir <hi>Iohn Mel<g ref="char:EOLhyphen"/>drum,</hi> and the reſt of the noble Councell of War to take into their thoughts and deſignes how to fall upon the enemy who lay before the Towne, they called a ſecret or Cabinet Counſell, and delibera<g ref="char:EOLhyphen"/>ted ſeriouſly upon the buſineſſe, and diſputed the feaſeableneſſe of it, for there were many diffi<g ref="char:EOLhyphen"/>culties in it; as firſt the adventuring any conſide<g ref="char:EOLhyphen"/>rable party out of the Towne, and then the diſ<g ref="char:EOLhyphen"/>couragements which might follow, if any loſſe or defeature ſhould happen, then the great Army
+<pb n="3" facs="tcp:111679:3"/> and Forces which the Earle of <hi>Newcaſtle</hi> had; and though they might ſally out upon one Work, yet he m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght with his numbers ſo ſupply the aſ<g ref="char:EOLhyphen"/>ſailed, that it would prove a mighty hazard; theſe things thus agitated, it pleaſed God to warme the ſpirits of our worthy Commanders, the Lord <hi>Fairfax,</hi> Sir <hi>Iohn Meldrum,</hi> and the reſt, and to put new reſolutions into their hearts, and they reſolved to ſally forth; then order was given to divers Captaines to make ready for drawing forth; and 800 were appointed by the Lord Ge<g ref="char:EOLhyphen"/>nerall <hi>Fairfax,</hi> and they were only deſigned for this great victory: They marched forth upon Wedneſday laſt, being the very day on which the Earle of <hi>Mancheſter,</hi> and Sir <hi>Tho Fairfax,</hi> Lord <hi>Willoughby,</hi> and Colonell <hi>Cromwell</hi> obtained their famous victory upon the place neere <hi>Bullin<g ref="char:EOLhyphen"/>brooke,</hi> which is a very wonderfull and obſerva<g ref="char:EOLhyphen"/>ble Providence, for God did ſeeme to give us a compleat victory in two ſeverall Counties at the ſame time, the one being a victory over Horſe, the other over Foot, ſo as now the whole body of the popiſh Army is routed, having divided it ſelfe into two parts, viz. <hi>Lincolnſhire</hi> and <hi>Yorkſhire, Newcaſtles</hi> Forces lying in their Trenches, and
+<pb n="4" facs="tcp:111679:4"/> having made ſeverall workes one within ano<g ref="char:EOLhyphen"/>ther, in a very ſtrong and Artificiall manner, our forces fell upon their main Quarter, beat them from one Worke into another, and ſo out of all the workes of their Quarter, but the Popiſh forces came one again and beat ours back again, and recovered their workes, then it pleaſed God to put new courage and reſolutions into our men and then they went on again drove them all out, killed 80 on the place tooke 100 priſoners, routed all the reſt, took 9 great Peices of Ordi<g ref="char:EOLhyphen"/>nance whereof one of them was called her Ma<g ref="char:EOLhyphen"/>jeſties <hi>Gog</hi> and <hi>Magog</hi> being their greateſt Can<g ref="char:EOLhyphen"/>non, ſhooting Bullets of 36 pound weight, theſe being taken thus, all his army run away and they purſued and might have followed them to the gates of <hi>Yorke,</hi> the enemy was in that great aſtoniſhment, but the forces of my Lord <hi>Fairefax</hi> contented themſelves for the preſent with theſe, only this further, ſuch was the diſorder and di<g ref="char:EOLhyphen"/>ſtraction of the enemies army upon this admi<g ref="char:EOLhyphen"/>rable difeate the divers of the newcaſtlians came into <hi>Hull</hi> to ſurrender themſelves to the Lord <hi>Fairfax</hi> mercy; now there are ſuch ſad <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<g ref="char:EOLhyphen"/>mentings in the Popiſh army, that they know
+<pb n="5" facs="tcp:111679:4"/> not wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t courſe to take, they are at their witts end, now they are thinking it is verily ſuppoſed of providing for themſelves; either by flight to <hi>Newcaſtle</hi> and ſo to take ſhipping, or to <hi>Scar<g ref="char:EOLhyphen"/>brough</hi> and ſo to be gone for <hi>Ireland.</hi>
+            </p>
+            <p>Sir <hi>Hugh Cholmley</hi> is in greate diſtraction and it is thought would come over againe to the Par<g ref="char:EOLhyphen"/>liaments ſide, if he might be received; for he hath had little ſound comfort and content ſince he re<g ref="char:EOLhyphen"/>volted.</p>
+            <p>The quarters now which the Enemy had about <hi>Beverley, Cottingham, Newland, Stoneferis, Stamfordbrigge,</hi> and other places are now left ve<g ref="char:EOLhyphen"/>ry empty, and they are intending to gather all into a body, &amp; to retreate to <hi>Yorke</hi> but it is thought by thoſe that run away from the enemies ſide daily, that the deſigne will not hold, and that they will rather run all away and ſo deſert the Marqueſſ of <hi>Newcaſtle</hi> &amp; leave him with his na<g ref="char:EOLhyphen"/>ked title; who of all men that ever took up Armes againſt the Parliament ſerves moſt to be hanged and have his quarters hung, the one upon <hi>Yorke</hi> minſter the other upon <hi>Lincoln</hi> minſter, and the other upon <hi>Durham</hi> minſter and the other
+<pb n="6" facs="tcp:111679:5"/> upon <hi>Weſtminſter,</hi> becauſe he firſt gave a riſe to the Papiſts of this land.</p>
+            <p>And let all men take notice of that wicked and unfortunate Marqueſſe, who hath been the only Generall for the Popiſh Army, giving them all the encouragement he could, and being the greateſt obſerver of the Queen, and her jeſuiti<g ref="char:EOLhyphen"/>call faction, doing their Commands like a pack<g ref="char:EOLhyphen"/>horſe.</p>
+            <p>And now all men are deſired to looke upon our Cauſe, and not to faint, but to raiſe up their ſpirits in the ſouth, that we may now totally end the buſineſſ, and haſten our peace and happineſſ which muſt only be by victo<g ref="char:EOLhyphen"/>ry over our enemy.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This is Licenſed and entered according to order.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
